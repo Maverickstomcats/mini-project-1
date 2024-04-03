@@ -29,3 +29,9 @@ nav > ul{
     flex-wrap: wrap;
     align-items: center;
 }
+
+nav > ul > li{
+    color: #dfdfe2;
+    margin: 0 0.2rem;
+    
+}
