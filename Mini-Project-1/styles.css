@@ -60,10 +60,10 @@ main{
 section{
     width:80%;
     margin: 0 auto 10px auto;
-    max: width 600px;
+    max-width: 600px;
 }
 
 h1,h2{
     border-bottom:4x solid #dfdfe2;
-    
+
 }
